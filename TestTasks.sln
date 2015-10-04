@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfOne", "ChainOfOne\ChainOfOne.csproj", "{52AD3309-4688-484F-BFA1-1B5E3A9B05F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DividersOfNumber", "DividersOfNumber\DividersOfNumber.csproj", "{BDAB10E6-73E9-42D2-A380-B3A0C12DF52D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciSequence", "FibonacciSequence\FibonacciSequence.csproj", "{BF7D9956-DE24-4F4A-A258-D57C9A06AE1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52AD3309-4688-484F-BFA1-1B5E3A9B05F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AD3309-4688-484F-BFA1-1B5E3A9B05F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AD3309-4688-484F-BFA1-1B5E3A9B05F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AD3309-4688-484F-BFA1-1B5E3A9B05F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDAB10E6-73E9-42D2-A380-B3A0C12DF52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAB10E6-73E9-42D2-A380-B3A0C12DF52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDAB10E6-73E9-42D2-A380-B3A0C12DF52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDAB10E6-73E9-42D2-A380-B3A0C12DF52D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7D9956-DE24-4F4A-A258-D57C9A06AE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7D9956-DE24-4F4A-A258-D57C9A06AE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7D9956-DE24-4F4A-A258-D57C9A06AE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7D9956-DE24-4F4A-A258-D57C9A06AE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
